@@ -1,16 +1,26 @@
-# namer_app
+# Flutter-Name-Generator-App
 
-A new Flutter project.
+## Description
+This Flutter application is a name generator that produces and displays cool-sounding names. Users can generate new names, favorite them, and review their favorites list. The app showcases a responsive UI design, adapting to different screen sizes and user interactions. Created during a Google Codelabs tutorial, this project demonstrates skills in building responsive and interactive mobile applications with Flutter.
 
-## Getting Started
+## Features
+- **Generate Names:** Users can view a constantly updating list of randomly generated, cool-sounding names.
+- **Favorite Names:** Users have the option to 'favorite' names they like.
+- **Review Favorites:** A separate page to view and manage the list of favorited names.
+- **Responsive Design:** Ensures a smooth user experience across different devices and screen sizes.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Flutter:** For UI design and overall app development.
+- **Dart:** Programming language used in conjunction with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Lessons Learned
+- Creating responsive layouts in Flutter.
+- Connecting user interactions to app behaviors.
+- Organizing Flutter code effectively.
+- Achieving a consistent look and feel across the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+To run this project, clone the repository and open it in your Flutter development environment.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/kyndrawynne/Flutter-Name-Generator-App.git
